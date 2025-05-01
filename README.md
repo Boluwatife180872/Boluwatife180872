@@ -1,4 +1,4 @@
-## Hi, I'm Boluwatife ⭐
+## Hi, I'm Boluwatife 💯
 
 🎓 I'm a Computer Science student at Caleb University<br/>
 💻 A passionate Frontend Developer leveling up to Fullstack<br/>
