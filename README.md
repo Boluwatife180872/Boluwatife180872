@@ -1,7 +1,7 @@
 Hi 👋 My name is Onukwu Ifeanyichukwu Boluwatife
 ================================================
 
-FrontEnd Developer
+Front-End Developer
 ------------------
 
 🎓 I'm a Computer Science student at Caleb University<br/>
