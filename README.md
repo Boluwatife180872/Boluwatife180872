@@ -4,12 +4,18 @@ Hi 👋 My name is Onukwu Ifeanyichukwu Boluwatife
 FrontEnd Developer
 ------------------
 
-🎓 I'm a Computer Science student at Caleb University 💻 A passionate Frontend Developer leveling up to Fullstack Development 🎨 I also love crafting visuals as a Graphics Designer<br/> 🚀 Always learning, building, and experimenting with code & design 🌐 Web dev | 🎯 UI/UX | 🔧 Projects in progress | 💡 Idea Man 📫 Let’s connect and create something awesome! ✅"Code it till you own it. Design it till it speaks."
+🎓 I'm a Computer Science student at Caleb University<br/>
+💻 A passionate Frontend Developer leveling up to Fullstack Development<br/>
+🎨 I also love crafting visuals as a Graphics Designer<br/> 
+🚀 Always learning, building, and experimenting with code & design<br/>
+🌐 Web dev | 🎯 UI/UX | 🔧 Projects in progress | 💡 Idea Man<br/>
+📫 Let’s connect and create something awesome!<br/>
+✅"Code it till you own it. Design it till it speaks."<br/>
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [bolu.onukwu@gmail.com](mailto:bolu.onukwu@gmail.com)
-* 🧠  I'm learning React JS
-* 🤝  I'm open to collaborating on Interesting Projects
+* 🌍  I'm based in Nigeria<br/>
+* ✉️  You can contact me at [bolu.onukwu@gmail.com](mailto:bolu.onukwu@gmail.com)<br/>
+* 🧠  I'm learning React JS<br/>
+* 🤝  I'm open to collaborating on Interesting Projects<br/>
 
 ### Skills
 
