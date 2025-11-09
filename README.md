@@ -39,9 +39,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boluwatife180872&show_icons=true&theme=tokyonight&hide_border=true" alt="Bolu's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boluwatife180872&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Boluwatife180872&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=14400" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boluwatife180872&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=14400" alt="Top languages" height="160" />
 </p>
+
 
 ---
 
