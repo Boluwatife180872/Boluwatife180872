@@ -1,70 +1,66 @@
-Hi 👋 My name is Onukwu Ifeanyichukwu Boluwatife
-================================================
+# Hi, I'm Onukwu Ifeanyichukwu Boluwatife  
+### Junior Software Engineer | Frontend → Fullstack → AI Engineering
 
-Front-End Developer
-------------------
+🎓 Computer Science student at **Caleb University**  
+💡 Passionate about building scalable web applications, integrating AI-driven solutions, and writing clean, efficient code.  
+🧠 Currently focusing on **React**, **Next.js**, and **TypeScript** while expanding into backend (**Python**, **Spring Boot**) and cloud (**AWS**).  
+✨ “Code it till you own it. Design it till it speaks.”
 
-🎓 I'm a Computer Science student at Caleb University<br/>
-💻 A passionate Frontend Developer leveling up to Fullstack Development<br/>
-🚀 Always learning, building, and experimenting with code & design<br/>
-🌐 Web dev | 🎯 UI/UX | 🔧 Projects in progress | 💡 Idea Man<br/>
-📫 Let’s connect and create something awesome!<br/>
-✅"Code it till you own it. Design it till it speaks."<br/>
+---
 
-* 🌍  I'm based in Nigeria<br/>
-* ✉️  You can contact me at [bolu.onukwu@gmail.com](mailto:bolu.onukwu@gmail.com)<br/>
-* 👨🏿‍💻  My Portfolio: [https://onukwuboluwatife-portfolio.vercel.app]
-* 🧠  I'm learning React JS & Next Js<br/>
-* 🤝  I'm open to collaborating on Interesting Projects<br/>
+### 🌍 About Me
 
-### Skills
+- 📍 Based in **Nigeria**  
+- 📫 Reach me at **[bolu.onukwu@gmail.com](mailto:bolu.onukwu@gmail.com)**  
+- 🌐 Portfolio: **[onukwuboluwatife-portfolio.vercel.app](https://onukwuboluwatife-portfolio.vercel.app)**  
+- 🧩 Currently learning **React, Next.js, TypeScript & AI Integration**  
+- 🤝 Open to collaborating on **Fullstack and AI-powered projects**  
+- ⚙️ Always learning, experimenting, and building meaningful software solutions
+
+---
+
+### 🧠 Tech Stack
 
 <p align="left">
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
 
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,java" height="45" alt="Languages" />
 
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,spring" height="45" alt="Frameworks" />
 
-  <!-- CSS -->
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,vercel,aws" height="45" alt="Tools" />
 
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  </a>
-
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>
-
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-
-  <!-- Flask -->
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
-  </a>
 </p>
 
+---
 
-### Socials
+### 📊 GitHub Stats
 
-<p align="left"> <a href="https://www.github.com/Boluwatife180872" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/boluwatife-onukwu-41b913310/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Bholu_1808" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@boluwatife18_08" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Boluwatife180872&show_icons=true&theme=tokyonight&hide_border=true" alt="Bolu's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boluwatife180872&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+</p>
 
-<a href="https://github.com/Boluwatife180872" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boluwatife180872&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Boluwatife180872" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="35" /></a>
+  <a href="https://www.linkedin.com/in/boluwatife-onukwu-41b913310/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
+  <a href="https://x.com/Bholu_1808" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="35" /></a>
+  <a href="https://www.threads.net/@boluwatife18_08" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="35" /></a>
+</p>
+
+---
+
+### 🧩 Current Focus
+🚀 Evolving from **Frontend → Fullstack → AI Engineering**  
+🧱 Building projects with **React**, **Next.js**, and **TypeScript**  
+☁️ Exploring **AWS**, **AI Integration**, and **Automation Engineering**
+
+---
+
+⭐ **“Keep learning, keep building — one commit at a time.”**
