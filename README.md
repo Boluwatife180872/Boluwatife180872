@@ -3,7 +3,7 @@
 
 🎓 Computer Science student at **Caleb University**  
 💡 Passionate about building scalable web applications, integrating AI-driven solutions, and writing clean, efficient code.  
-🧠 Currently focusing on **React**, **Next.js**, and **TypeScript** while expanding into backend (**Python**, **Spring Boot**) and cloud (**AWS**).  
+🧠 Currently focusing on **React**, **Next.js**, and **TypeScript** while expanding into backend (**Python**, **Golang**) and cloud (**AWS**).  
 ✨ “Code it till you own it. Design it till it speaks.”
 
 ---
