@@ -12,7 +12,7 @@
 
 - 📍 Based in **Nigeria**  
 - 📫 Reach me at **[bolu.onukwu@gmail.com](mailto:bolu.onukwu@gmail.com)**  
-- 🌐 Portfolio: **[onukwuboluwatife-portfolio.vercel.app](https://onukwuboluwatife-portfolio.vercel.app)**  
+- 🌐 Portfolio: **[https://bolu-codes.vercel.app](https://bolu-codes.vercel.app)**  
 - 🧩 Currently learning **React, Next.js, TypeScript & AI Integration**  
 - 🤝 Open to collaborating on **Fullstack and AI-powered projects**  
 - ⚙️ Always learning, experimenting, and building meaningful software solutions
