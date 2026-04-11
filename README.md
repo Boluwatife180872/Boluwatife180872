@@ -24,13 +24,13 @@
 <p align="left">
 
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,java" height="45" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" height="45" alt="Languages" />
 
   <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,spring,fastapi" height="45" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi" height="45" alt="Frameworks" />
 
   <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,vercel,aws" height="45" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,aws" height="45" alt="Tools" />
 
 </p>
 
