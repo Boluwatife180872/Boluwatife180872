@@ -24,7 +24,7 @@
 <p align="left">
 
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" height="45" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" height="45" alt="Languages" />
 
   <!-- Frameworks & Libraries -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,django" height="45" alt="Frameworks" />
