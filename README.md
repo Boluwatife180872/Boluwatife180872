@@ -1,9 +1,9 @@
-# Hi, I'm Onukwu Ifeanyichukwu Boluwatife  
-### Junior Software Engineer | Frontend → Fullstack → AI Engineering
+# Hi, I'm Onukwu Ifeanyichukwu Boluwatife (BoluCodes)
+### Software Engineer | Frontend → Fullstack → AI Engineering
 
 🎓 Computer Science student at **Caleb University**  
 💡 Passionate about building scalable web applications, integrating AI-driven solutions, and writing clean, efficient code.  
-🧠 Currently focusing on **React**, **Next.js**, and **TypeScript** while expanding into backend (**Python**, **Golang**) and cloud (**AWS**).  
+🧠 Currently focusing on **React**, **Next.js**, and **TypeScript** while expanding into backend (**Python (Fast API)**, **Golang**) and cloud (**AWS**).  
 ✨ “Code it till you own it. Design it till it speaks.”
 
 ---
