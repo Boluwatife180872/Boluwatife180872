@@ -5,7 +5,7 @@
 
 💻 Building scalable web applications, integrating AI-driven solutions, and writing clean, efficient code.
 
-⚡ Actively building production-ready applications with React, Next.js, and TypeScript.
+⚡ Actively building production-ready applications with React, Next.js, TypeScript and React Native.
 
 > *"Code it till you own it. Design it till it speaks."*
 
