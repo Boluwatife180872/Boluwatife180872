@@ -15,7 +15,7 @@
 
 - 📍 Based in **Lagos, Nigeria**
 - 📫 [bolu.onukwu@gmail.com](mailto:bolu.onukwu@gmail.com)
-- 🌐 Portfolio: [bolu-codes.vercel.app](https://bolu-codes.vercel.app)
+- 🌐 Portfolio: [bolucodes.dev](https://bolucodes.dev)
 - 🔭 Currently focused on **Python, FastAPI & AI Engineering**
 - 🤝 Open to collaborating on **Fullstack and AI-powered projects**
 - 📈 Committed to continuous growth through building real, meaningful software
