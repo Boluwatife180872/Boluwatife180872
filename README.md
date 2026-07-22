@@ -69,19 +69,27 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Boluwatife180872" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="35" /></a>
+  <a href="https://github.com/Boluwatife180872" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="35" />
+  </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/boluwatife-onukwu-41b913310/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
+  <a href="https://linkedin.com/in/ifeanyichukwu-onukwu-41b913310" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+  </a>
   &nbsp;
-  <a href="https://x.com/Bholu_1808" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="35" /></a>
+  <a href="https://x.com/bolu_codes" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="35" />
+  </a>
   &nbsp;
-  <a href="https://www.threads.net/@boluwatife18_08" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="35" /></a>
+  <a href="https://www.instagram.com/bolucodes/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication — in life and in systems."</i>
+  <i>Building software that solves real problems.</i>
 </p>
 
 <p align="center">
