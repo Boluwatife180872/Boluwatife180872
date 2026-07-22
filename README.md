@@ -1,5 +1,5 @@
 # Hi, I'm Onukwu Ifeanyichukwu Boluwatife (BoluCodes)
-### Software Engineer | Frontend → Fullstack → AI Engineering
+### Software Engineer | Building Web, Mobile & AI-Powered Products
 
 🎓 Computer Science student at **Caleb University**
 
