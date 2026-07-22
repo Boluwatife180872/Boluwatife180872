@@ -6,9 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://bolucodes.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-bolucodes.dev-2EA3F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:bolu.onukwu@gmail.com"><img src="https://img.shields.io/badge/Email-bolu.onukwu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/boluwatife-onukwu-41b913310/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://bolucodes.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-bolucodes.dev-2EA3F7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:bolu.onukwu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bolu.onukwu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ifeanyichukwu-onukwu-41b913310" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
