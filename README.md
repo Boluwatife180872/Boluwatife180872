@@ -35,9 +35,9 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" height="45" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python" height="45" alt="Languages" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi" height="45" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,spring,fastapi" height="45" alt="Frameworks & Libraries" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,aws" height="45" alt="Tools & Platforms" />
 </p>
