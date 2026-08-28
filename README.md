@@ -54,11 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boluwatife180872&theme=tokyonight&hide_border=true" alt="BoluCodes Streak Stats" height="165" />
-</p>
 
 <p align="center">
   
