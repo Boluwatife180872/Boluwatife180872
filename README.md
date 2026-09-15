@@ -32,6 +32,14 @@
 
 ---
 
+### 📊 Language Breakdown
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boluwatife180872&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=2EA3F7&text_color=ffffff&border_color=2EA3F7&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -51,6 +59,11 @@
 🤖 Exploring AI Engineering — LLMs, RAG pipelines, and intelligent integrations
 🚀 Shipping real projects at every stage of the journey
 ```
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Boluwatife180872&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=2EA3F7&hide_border=false" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Boluwatife180872&theme=tokyonight&background=0D1117&ring=2EA3F7&fire=2EA3F7&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ---
 
