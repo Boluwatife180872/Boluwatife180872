@@ -23,7 +23,7 @@
 
 - 🎓 Computer Science student at **Caleb University**, Nigeria
 - 💻 Software Engineer building **Web, Mobile & AI-powered products**
-- ⚙️ Currently deepening my backend skills with **Python, FastAPI, PostgreSQL & SQLAlchemy**
+- ⚙️ Currently deepening my backend skills with **Python, FastAPI, PostgreSQL, SQLAlchemy, Redis, etc**
 - 🤖 Exploring **AI Engineering** — LLMs, RAG, AI agents, and intelligent applications
 - 🚀 I enjoy turning ideas into **useful, scalable software** and shipping things that actually work
 - 🤝 Open to collaborating on **Web, Mobile, Backend & AI projects**
