@@ -22,11 +22,12 @@
 ### 📌 About Me
 
 - 🎓 Computer Science student at **Caleb University**, Nigeria
-- 📍 Based in **Lagos, Nigeria**
-- 💻 Building scalable web applications, integrating AI-driven solutions, and writing clean, efficient code
-- 🔭 Currently focused on **Python, FastAPI & AI Engineering** — LLM-powered pipelines and RAG systems
-- 🤝 Open to collaborating on **Fullstack** and **AI-powered** projects
-- 📈 Committed to continuous growth through building real, meaningful software
+- 💻 Software Engineer building **Web, Mobile & AI-powered products**
+- ⚙️ Currently deepening my backend skills with **Python, FastAPI, PostgreSQL & SQLAlchemy**
+- 🤖 Exploring **AI Engineering** — LLMs, RAG, AI agents, and intelligent applications
+- 🚀 I enjoy turning ideas into **useful, scalable software** and shipping things that actually work
+- 🤝 Open to collaborating on **Web, Mobile, Backend & AI projects**
+- 📈 Always learning, building, and pushing toward becoming a better engineer
 
 > *"Code it till you own it. Design it till it speaks."*
 
