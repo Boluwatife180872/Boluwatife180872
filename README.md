@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Onukwu Ifeanyichukwu Boluwatife</h1>
 <h3 align="center">Known as BoluCodes — Software Engineer building Web, Mobile & AI-Powered Products</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="./bolucodes-linkedin-banner-3168x792@2x.png" 
     alt="BoluCodes — Software Engineer"
     width="100%"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+React+%26+Next.js;Shipping+cross-platform+apps+with+React+Native;Diving+into+AI+Engineering+%E2%80%94+LLMs+%2B+RAG+%2B+FastAPI;Code+it+till+you+own+it.+Design+it+till+it+speaks." alt="Typing SVG" />
