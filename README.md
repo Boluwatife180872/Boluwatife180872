@@ -58,9 +58,9 @@
 ### 🎯 Current Focus
 
 ```text
-🔧 Strengthening backend fundamentals — Python & FastAPI
-🤖 Exploring AI Engineering — LLMs, RAG pipelines, and intelligent integrations
-🚀 Shipping real projects at every stage of the journey
+⚙️ Backend Engineering — Python, FastAPI & scalable APIs
+🤖 AI Engineering — LLMs, RAG, agents & AI workflows
+🚀 Building production-ready products across Web, Mobile & AI
 ```
 
 ---
