@@ -116,11 +116,11 @@
     alt="Top Languages"
   />
   &nbsp;&nbsp;
-  <img
+  <!-- <img
     height="165"
     src="https://github-readme-streak-stats.herokuapp.com/?user=Boluwatife180872&theme=tokyonight&background=0D1117&ring=2EA3F7&fire=2EA3F7&hide_border=false"
     alt="GitHub Streak"
-  />
+  /> -->
 </p>
 
 ---
