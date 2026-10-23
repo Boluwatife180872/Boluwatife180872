@@ -71,25 +71,6 @@ Currently strengthening my backend engineering skills while working toward **AI 
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.shion.dev/api?username=Boluwatife180872&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Boluwatife180872&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
-
-### Contributions
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Boluwatife180872&bg_color=0d1117&color=2EA3F7&line=2EA3F7&point=FFFFFF&area=true&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
-    width="100%"
-  />
-</p>
-
----
-
 ### Connect
 
 <p align="center">
