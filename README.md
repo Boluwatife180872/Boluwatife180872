@@ -1,4 +1,13 @@
- <div align="center">
+ <!-- Profile Banner -->
+<p align="center">
+  <img
+    src="./bolucodes-linkedin-banner-3168x792@2x.png"
+    alt="BoluCodes — Software Engineer"
+    width="100%"
+  />
+</p>
+
+<div align="center">
 
 # Onukwu Ifeanyichukwu Boluwatife
 
@@ -62,11 +71,21 @@ Currently strengthening my backend engineering skills while working toward **AI 
 
 ---
 
-### Signal
+### GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.shion.dev/api?username=Boluwatife180872&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Boluwatife180872&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
+
+### Contributions
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Boluwatife180872&bg_color=0d1117&color=2EA3F7&line=2EA3F7&point=FFFFFF&area=true&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
 </p>
 
 ---
@@ -74,19 +93,19 @@ Currently strengthening my backend engineering skills while working toward **AI 
 ### Connect
 
 <p align="center">
-  <a href="https://github.com/Boluwatife180872" target="_blank">
+  <a href="https://github.com/Boluwatife180872">
     <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ifeanyichukwu-onukwu-41b913310" target="_blank">
+  <a href="https://linkedin.com/in/ifeanyichukwu-onukwu-41b913310">
     <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/bolu_codes" target="_blank">
+  <a href="https://x.com/bolu_codes">
     <img src="https://cdn.simpleicons.org/x/ffffff" height="30" alt="X" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/bolucodes/" target="_blank">
+  <a href="https://www.instagram.com/bolucodes/">
     <img src="https://skillicons.dev/icons?i=instagram" height="36" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
