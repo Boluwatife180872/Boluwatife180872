@@ -1,12 +1,4 @@
  <!-- Profile Banner -->
-<p align="center">
-  <img
-    src="./bolucodes-linkedin-banner-3168x792@2x.png"
-    alt="BoluCodes — Software Engineer"
-    width="100%"
-  />
-</p>
-
 <div align="center">
 
 # Onukwu Ifeanyichukwu Boluwatife
