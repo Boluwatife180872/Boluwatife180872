@@ -24,9 +24,7 @@ I build software from the interface to the database, with a focus on products th
 
 ---
 
-```console
-$ whoami
-```
+### About
 
 Computer Science student at **Caleb University, Nigeria**. I build full-stack products with React, Next.js, FastAPI, and PostgreSQL, and develop cross-platform mobile applications with React Native and Expo.
 
@@ -37,9 +35,7 @@ Currently strengthening my backend engineering skills while working toward **AI 
 + "it works in production, under load, at 2am"
 ```
 
-```console
-$ systemctl status bolu
-```
+### Overview
 
 ```text
 ● bolu.service — active (running)
