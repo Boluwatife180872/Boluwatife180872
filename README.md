@@ -42,7 +42,7 @@ Currently strengthening my backend engineering skills while working toward **AI 
 ● bolu.service — active (running)
    Role     : Software Engineer
    Focus    : Web · Mobile · Backend
-   Stack    : TypeScript · Python · React · FastAPI
+   Stack    : JavaScript · TypeScript · Python · React · FastAPI
    Location : Nigeria (UTC+1)
    Open to  : Engineering roles · Collaborations
 ```
