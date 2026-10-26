@@ -1,7 +1,7 @@
  <!-- Profile Banner -->
 <div align="center">
 
-# Onukwu Ifeanyichukwu Boluwatife
+<h1 align="center">Hey 👋, I'm Boluwatife...</h1>
 
 **`bolucodes`** · Software Engineer — Web · Mobile · Backend
 
@@ -25,21 +25,21 @@ I build software from the interface to the database, with a focus on products th
 
 ---
 
-### About
+### 📌 About Me
 
 Computer Science student at **Caleb University, Nigeria**. I build full-stack products with React, Next.js, FastAPI, and PostgreSQL, and develop cross-platform mobile applications with React Native and Expo.
 
 Currently strengthening my backend engineering skills while working toward **AI engineering**, with an interest in LLMs, RAG, and intelligent applications.
 
 ```diff
-- "it works on my machine"
-+ "it works in production, under load, at 2am"
+- "it works locally"
++ "let's see what production thinks"
 ```
 
 ### Overview
 
 ```text
-● bolu.service — active (running)
+● bolucodes.service — active (running)
    Role     : Software Engineer
    Focus    : Web · Mobile · Backend
    Stack    : JavaScript · TypeScript · Python · React · FastAPI
@@ -57,13 +57,26 @@ Currently strengthening my backend engineering skills while working toward **AI 
 - **Data & Services** · `PostgreSQL` `Redis` `SQL Server` `SQLite` `Supabase` `Firebase`
 - **Infrastructure & Tooling** · `Docker` `Git` `AWS` `Vercel` `Netlify` `Postman`
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,fastapi,postgres,redis,docker,git,aws&perline=12" alt="Core technologies" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind&perline=6" alt="Core technologies" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,aws&perline=5" alt="Core technologies" />
 </p>
 
 ---
 
-### Connect
+### 🎯 Current Focus
+
+```text
+⚙️ Backend Engineering — Python, FastAPI & scalable APIs
+🤖 AI Engineering — LLMs, RAG, agents & AI workflows
+🚀 Building production-ready products across Web, Mobile & AI
+```
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Boluwatife180872">
