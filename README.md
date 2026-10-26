@@ -1,11 +1,11 @@
  <!-- Profile Banner -->
 <div align="center">
 
-<h1 align="center">Hey 👋, I'm Boluwatife...</h1>
+<h1 align="center">› Hey 👋, I'm Boluwatife</h1>
 
 **`bolucodes`** · Software Engineer — Web · Mobile · Backend
 
-I build software from the interface to the database, with a focus on products that work beyond the demo.
+I build beyond the interface, turning ideas into software built for the real world.
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2EA3F7&center=true&vCenter=true&width=650&lines=Building+web+apps+with+React+%26+Next.js;Developing+mobile+apps+with+React+Native;Building+backends+with+Python+%26+FastAPI;Exploring+AI+engineering+%E2%80%94+LLMs+%2B+RAG" alt="Typing SVG" />
