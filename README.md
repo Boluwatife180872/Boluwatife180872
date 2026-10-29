@@ -3,7 +3,7 @@
 
 <h1 align="center">› Hey 👋, I'm Boluwatife</h1>
 
-**`bolucodes`** · Software Engineer — Web · Mobile · Backend
+**`BoluCodes`** · Software Engineer — Web · Mobile · Backend
 
 I build beyond the interface, turning ideas into software built for the real world.
 
