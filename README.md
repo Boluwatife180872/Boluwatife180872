@@ -1,7 +1,7 @@
  <!-- Profile Banner -->
 <div align="center">
 
-<h1 align="center">› Hey 👋, I'm Boluwatife</h1>
+<h1 align="center">➲ Hey 👋, I'm Boluwatife</h1>
 
 **`BoluCodes`** · Software Engineer — Web · Mobile · Backend
 
