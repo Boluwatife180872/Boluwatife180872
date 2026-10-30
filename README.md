@@ -36,7 +36,7 @@ Currently strengthening my backend engineering skills while working toward **AI 
 + "let's see what production thinks"
 ```
 
-### Overview
+### ➛ Overview
 
 ```text
 ● bolucodes.service — active (running)
@@ -49,7 +49,7 @@ Currently strengthening my backend engineering skills while working toward **AI 
 
 ---
 
-### Stack
+### ➛ Stack
 
 - **Languages** · `Python` `TypeScript` `JavaScript` `Java` `HTML` `CSS`
 - **Frontend & Mobile** · `React` `Next.js` `React Native` `Expo` `Tailwind CSS` `TanStack Query`
