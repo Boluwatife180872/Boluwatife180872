@@ -1,7 +1,7 @@
  <!-- Profile Banner -->
 <div align="center">
 
-<h1 align="center">➲ Hey 👋, I'm Boluwatife</h1>
+<h1 align="center">➲ Hey, I'm BoluCodes 👨🏾‍💻</h1>
 
 **`BoluCodes`** · Software Engineer — Web · Mobile · Backend
 
@@ -27,7 +27,7 @@ I build beyond the interface, turning ideas into software built for the real wor
 
 ### 📌 About Me
 
-Computer Science student at **Caleb University, Nigeria**. I build full-stack products with React, Next.js, FastAPI, and PostgreSQL, and develop cross-platform mobile applications with React Native and Expo.
+Final-year Computer Science student at **Caleb University, Nigeria**. I build full-stack products with React, Next.js, FastAPI, and PostgreSQL, and develop cross-platform mobile applications with React Native and Expo.
 
 Currently strengthening my backend engineering skills while working toward **AI engineering**, with an interest in LLMs, RAG, and intelligent applications.
 
