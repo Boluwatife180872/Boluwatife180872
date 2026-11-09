@@ -53,7 +53,7 @@ Currently strengthening my backend engineering skills while working toward **AI 
 
 - **Languages** · `Python` `TypeScript` `JavaScript` `Java` `HTML` `CSS`
 - **Frontend & Mobile** · `React` `Next.js` `React Native` `Expo` `Tailwind CSS` `TanStack Query`
-- **Backend** · `FastAPI` `Spring Boot` `Pydantic` `SQLAlchemy` `Alembic` `Strapi` `JWT`
+- **Backend** · `FastAPI` `Spring Boot` `Pydantic` `SQLAlchemy` `Alembic` `Strapi` `JWT` `Alembic`
 - **Data & Services** · `PostgreSQL` `Redis` `SQL Server` `SQLite` `Supabase` `Firebase` `Convex`
 - **Infrastructure & Tooling** · `Docker` `Git` `AWS` `Vercel` `Netlify` `Postman`
 
